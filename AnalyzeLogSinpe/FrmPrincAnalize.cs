@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace AnalyzeLogSinpe
 {
-    public partial class Form1 : Form
+    public partial class FrmPrincAnalize : Form
     {
-        public Form1()
+        public FrmPrincAnalize()
         {
             InitializeComponent();
         }
